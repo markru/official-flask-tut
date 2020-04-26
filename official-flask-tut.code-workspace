@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/Users/markrussell/anaconda3/envs/flask-tut/bin/python"
+	}
+}
